@@ -41,6 +41,8 @@ O bot possui as seguintes funcionalidades:
 4. Insira o ID da planilha em `SPREADSHEET_ID`.
 5. Obtenha as credenciais na Google Cloud Plataform.
 6. Execute o bot através do comando `python nome_do_arquivo.py`.
+7. Para conseguir usar os comandos de eventos/agenda, você precisa utilizar uma planilha neste [modelo](https://docs.google.com/spreadsheets/d/1K0Do_NzQXoZIA1LflTqi-ZQoWmdqlMf38uIo-CV185M/edit?usp=sharing).
+   
 Para obter os itens 4, 5, 6, verifique as instruções disponíveis neste [pdf](https://github.com/duartebianca/DiscordBot-PiticoComDiversidade/blob/main/como_criar_bot_discord.pdf).
 
 ## Documentação
