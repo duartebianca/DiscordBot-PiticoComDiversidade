@@ -2,7 +2,7 @@
 
 Este é um bot de Discord criado para o servidor de Diversidade do CITi-UFPE. Seu objetivo é promover o reconhecimento, engajamento e facilitar o acesso às informações sobre o Comitê de Diversidade & Inclusão.
 
-## Funcionalidades
+## 📜 Funcionalidades
 
 O bot possui as seguintes funcionalidades:
 
@@ -23,7 +23,7 @@ O bot possui as seguintes funcionalidades:
 4. Controle de Voz:
    - **!sair**: Faz o bot sair do canal de voz.
 
-## Tecnologias Utilizadas
+## 🖥 Tecnologias Utilizadas
 
 - **Discord.py**: Biblioteca para interagir com a API do Discord.
 - **gspread**: Biblioteca para acessar planilhas do Google Sheets.
@@ -33,7 +33,7 @@ O bot possui as seguintes funcionalidades:
 - **pytube**: Biblioteca para interagir com vídeos do YouTube.
 - **moviepy**: Biblioteca para edição de vídeos.
 
-## Uso
+## ⁉ Uso
 
 1. Clone este repositório.
 2. Instale as dependências listadas no arquivo `requirements.txt`.
@@ -43,16 +43,16 @@ O bot possui as seguintes funcionalidades:
 6. Execute o bot através do comando `python nome_do_arquivo.py`.
 7. Para conseguir usar os comandos de eventos/agenda, você precisa utilizar uma planilha neste [modelo](https://docs.google.com/spreadsheets/d/1K0Do_NzQXoZIA1LflTqi-ZQoWmdqlMf38uIo-CV185M/edit?usp=sharing).
    
-Para obter os itens 4, 5, 6, verifique as instruções disponíveis neste [pdf](https://github.com/duartebianca/DiscordBot-PiticoComDiversidade/blob/main/como_criar_bot_discord.pdf).
+Para obter os itens 3, 4, 5, verifique as instruções disponíveis neste [pdf](https://github.com/duartebianca/DiscordBot-PiticoComDiversidade/blob/main/como_criar_bot_discord.pdf).
 
-## Documentação
+## 📚 Documentação
 
 Para obter mais detalhes sobre o funcionamento dos comandos e configurações, consulte a documentação completa do bot.
 
-## Objetivo
+## 🎯 Objetivo
 
 Este bot foi desenvolvido para atender às necessidades específicas do servidor de Diversidade do CITi-UFPE. Se você deseja contribuir ou adaptar o bot para outro contexto, fique à vontade para fazer um fork deste repositório e adaptar o código conforme necessário. 
 
-## Agradecimentos
+## ✨ Agradecimentos
 
-Agradecimentos à equipe do Comitê de Diversidade e Inclusão, à equipe de Inteligência de Dados & Finanças e  a Arthur Brito pelo auxílio no Deploy, na época em que o Bot foi ao ar.
+Agradecimentos às equipes do Comitê de Diversidade e Inclusão e de Inteligência de Dados & Finanças pelo auxílio na construção e desenvolvimento. Também a Arthur Brito, pela ajuda com o deploy, na época em que o Bot foi ao ar.
